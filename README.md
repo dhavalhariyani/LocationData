@@ -11,4 +11,4 @@
 
 # Visual Demo
 
-<img src="https://github.com/dhavalhariyani/LocationApp/blob/master/Demo/ezgif-3-b9bf047acc59.gif" width="30%" height="30%">
+<img src="https://github.com/dhavalhariyani/LocationApp/blob/master/Demo/ezgif-3-b9bf047acc59.gif" width="30%" height="25%">
