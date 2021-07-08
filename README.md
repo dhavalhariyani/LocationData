@@ -9,6 +9,11 @@
 - Also, there is a custom implementation of GPS Not Enable Dialog.
 - **Best Feature : This app works even when device has no internet connection**.
 
+## Contribution
+
+- If you can add more features using this piece of code and move this thing further, I'm more than happy to get your help.
+- Please fork this repo and modify this and add/improve features.
+- Then make pull request, I'll happily merge you code.
 
 # Visual Demo
 
