@@ -7,6 +7,7 @@
 - Then fetched latitude and longitude is used to get ZipCode with help of GeoCoder Class.
 - User can click on Navigate button to get pin pointed in Google Maps based on latitude and longitude fetched.
 - Also, there is a custom implementation of GPS Not Enable Dialog.
+- **Best Feature : This app works even when device has no internet connection**.
 
 
 # Visual Demo
