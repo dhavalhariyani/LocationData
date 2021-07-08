@@ -6,7 +6,7 @@
 - This app gets location of user's device and fetches latitude and longitude based on <b>Location</b> class.
 - Then fetched latitude and longitude is used to get ZipCode with help of GeoCoder Class.
 - User can click on Navigate button to get pin pointed in Google Maps based on latitude and longitude fetched.
-- Also, there is a custom implementation of Location Permission Dialog.
+- Also, there is a custom implementation of GPS Not Enable Dialog.
 
 
 # Visual Demo
